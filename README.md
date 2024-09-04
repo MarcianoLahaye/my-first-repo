@@ -1,3 +1,3 @@
 # my-first-repo
-![paskaart]_[paskaart.jpg]
-<img scr=''paskaart.jpg'' alt=''hallo'' width=''200''>
+![paskaart][paskaart.png]
+<img src="paskaart.png" alt="hallo" width="200">
